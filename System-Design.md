@@ -12,7 +12,7 @@ Next.js website using Tailwind CSS
 Deployed with Vercel.js
 FastAPI Backend
 Utilizing:
-- MongoDB
+- MongoDB Atlas
 - Plaid API (for user transaction data)
 - AuthO for user 
 
